@@ -1,0 +1,8 @@
+# Terraform
+.terraform*
+*.tfstate
+providers.tf
+terraform.tfvars
+
+# etc
+*.sql
